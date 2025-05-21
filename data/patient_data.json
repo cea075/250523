@@ -1,0 +1,28 @@
+[
+  {
+    "name": "김철수",
+    "age": 20,
+    "gender": "남성",
+    "height": 120,
+    "weight": 30,
+    "fasting_glucose": 100,
+    "hba1c": 5.6,
+    "bp_sys": 120,
+    "bp_dia": 80,
+    "on_medication": "예",
+    "diabetes_type": "제1형"
+  },
+  {
+    "name": "김영희",
+    "age": 20,
+    "gender": "여성",
+    "height": 170,
+    "weight": 60,
+    "fasting_glucose": 100,
+    "hba1c": 5.6,
+    "bp_sys": 120,
+    "bp_dia": 80,
+    "on_medication": "예",
+    "diabetes_type": "제2형"
+  }
+]
